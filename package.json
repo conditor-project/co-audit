@@ -1,0 +1,22 @@
+{
+  "name": "co-audit",
+  "version": "1.1.0",
+  "description": "Module ayant pour objectif d'aider à l'audit de la base conditor et au recettage des traitements",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conditor-project/co-audit.git"
+  },
+  "keywords": [
+    "istex"
+  ],
+  "author": "istex-api",
+  "license": "GNU",
+  "dependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  }
+}
